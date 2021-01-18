@@ -15,8 +15,8 @@
 
 ## Links
 
-- LinkedIn:  https://www.linkedin.com/in/rohith-chittimalla-227605155/
+- LinkedIn: https://www.linkedin.com/in/rohith-chittimalla-227605155/
 - GitHub: https://github.com/rohith0696
 
 
-![](rohith.jpg)
+<img src="rohith.jpg" width="100" height="100">
